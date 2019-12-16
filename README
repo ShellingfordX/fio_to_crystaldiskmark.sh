@@ -1,1 +1,3 @@
-a
+Reproducing CrystalDiskMark tests with fio - fixes for https://unix.stackexchange.com/revisions/480191/9
+
+Credit goes to [https://gist.github.com/i3v]
